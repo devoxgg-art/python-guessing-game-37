@@ -1,2 +1,4 @@
-# python-guessing-game-37
+# Python Guessing Game 37
+
 A classic number guessing CLI game in Python.
+
